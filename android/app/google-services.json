@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171204720354",
+    "project_id": "mynotes-0129",
+    "storage_bucket": "mynotes-0129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171204720354:android:693ac1b51f1a29f8c410bb",
+        "android_client_info": {
+          "package_name": "hp.dream.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171204720354-g6pli9a1nqigvgbbsf4a7pkfa6kc0dvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVn-DJZEUVGH6w5UQANbv6Bi-Nq0lZZQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171204720354-g6pli9a1nqigvgbbsf4a7pkfa6kc0dvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
